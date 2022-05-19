@@ -1,0 +1,7 @@
+﻿  matrix_flatten.cpp
+C:\Users\nasse\OneDrive\Desktop\New folder (4)\Matrix_Flatten\matrix_flatten\matrix_flatten.cpp(22,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\nasse\OneDrive\Desktop\New folder (4)\Matrix_Flatten\matrix_flatten\matrix_flatten.cpp(50,54): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\nasse\OneDrive\Desktop\New folder (4)\Matrix_Flatten\matrix_flatten\matrix_flatten.cpp(50,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\nasse\OneDrive\Desktop\New folder (4)\Matrix_Flatten\matrix_flatten\matrix_flatten.cpp(50,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\nasse\OneDrive\Desktop\New folder (4)\Matrix_Flatten\matrix_flatten\matrix_flatten.cpp(52,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  matrix_flatten.vcxproj -> C:\Users\nasse\OneDrive\Desktop\New folder (4)\Matrix_Flatten\matrix_flatten\Debug\matrix_flatten.exe
